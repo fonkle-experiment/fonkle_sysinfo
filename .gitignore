@@ -1,0 +1,9 @@
+.vscode
+
+build/
+<<<<<<< HEAD
+dist/
+=======
+>>>>>>> e7befbe... Added .egg-info to .gitignore and removed .egg-info from cache.
+
+*.egg-info
